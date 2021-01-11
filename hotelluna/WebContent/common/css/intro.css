@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#container {display: flex;}
+#content {padding: .5rem 1rem; width:-webkit-fill-available; margin-top: 80px; text-align:center;}
+#map {width: 800px; height: 500px;}
+
+
+/* about luna */
+#sub_menu {margin-top: 80px; height:40px;}
+#sub_menu_title {margin-bottom: 10px; height:80px;}
+#desc_txt {font-family:'LotteMartHappy';}
+.sub-title-img {width:150px;}
+
+
+.sub-menu {font-family: 'LotteMartDream', sans-serif;  font-weight: bold;}
+.sub-menu-title {font-family:'LotteMartHappy';  font-weight: bold;}

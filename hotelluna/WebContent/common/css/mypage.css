@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#boardDiv {width:600px; margin: 0px auto;}
+
+#sub_menu{float:left;}
+#content {float:center;}
+
+.q-type{width:100px;}
+.q-reply{width:100px;}
