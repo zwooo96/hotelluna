@@ -5,7 +5,7 @@
 > 가상의 호텔인 호텔 루나를 이용하기 위한 사이트로 호텔 회원들에게는 오프라인보다 빠르고 쉬운 예약 서비스를 제공하고, 관리자에게는 편리한 회원 관리 및 호텔 관리 기능을 제공하기 위해 개발했습니다.
 
 ### 참여 인원 및 업무 분장
-<img src="https://user-images.githubusercontent.com/41753758/104174644-ebc78780-5449-11eb-8612-576bcad91090.png">
+<img src="https://user-images.githubusercontent.com/41753758/104286373-4e775c80-54f8-11eb-8ca6-b9b63a68ad32.png">
 
 ## 개발환경
 + 개발환경
